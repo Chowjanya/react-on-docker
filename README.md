@@ -1,4 +1,4 @@
-#React App on Docker
+# React App on Docker
 
 The react app was created by following the [react tutorial](https://reactjs.org/tutorial/tutorial.html).
 
